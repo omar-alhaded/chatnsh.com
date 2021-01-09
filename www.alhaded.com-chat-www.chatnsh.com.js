@@ -66,7 +66,7 @@ div#d0 {width: 100%;-webkit-transform: matrix(1, 0, 0, 1, 47, 0);-moz-transform:
     width: 300px;
     height: 60px;
     float: left;
-    background: transparent url() no-repeat scroll right top;
+    background: transparent url(https://chatnsh.com/sico/z1erkmupif10.jp) no-repeat scroll right top;
     text-align: left;
 }
 
